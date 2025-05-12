@@ -1,4 +1,10 @@
-## Hey there! 👋😊
+✨ Welcome to the Heart of Innovation
+Where ideas come to life and extraordinary experiences are crafted. Let’s build something amazing! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niranjanasnair/)
+![GitHub followers](https://img.shields.io/github/followers/niranjana-ec?label=Follow&style=social)
+
+
 
 I'm **Niranjana**, an aspiring **Android & Web Developer** and a dedicated **UI/UX Designer** 🎨  
 Currently pursuing **Electrical and Computer Engineering**, I love blending code and creativity to craft seamless and engaging digital experiences.  

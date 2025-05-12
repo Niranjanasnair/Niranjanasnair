@@ -12,6 +12,11 @@ Currently pursuing **Electrical and Computer Engineering**, I love blending code
 
 🔬 I'm also passionate about **wireless security research** and constantly exploring real-world tech applications!
 
+## 📌 Let's Connect
+
+I love collaborating on web development, Android apps, and UI/UX projects.  
+Feel free to connect or check out my work below!
+
 ---
 
 ### 🌱 What I'm Currently Working On:
